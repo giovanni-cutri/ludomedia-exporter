@@ -1,2 +1,2 @@
 # ludomedia-exporter
- Script to export your Ludomedia collection.
+ Script to export a Ludomedia user collection.
