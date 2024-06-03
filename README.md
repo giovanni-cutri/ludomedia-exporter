@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-- Run *main.py* and paste into the terminal the URL of the profile of the user.
+- Run *main.py*, then provide the URL of the profile of the user.
 - Wait for the script to finish.
 - The data is exported in a CSV file named after the user, in a folder called *data*.
 
