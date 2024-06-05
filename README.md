@@ -1,6 +1,16 @@
 # Ludomedia Exporter
 Thanks to this Python script, you can export the videogames collection of any user on [Ludomedia](https://www.ludomedia.it/), including your own!
 
+The following metadata is saved to a CSV file:
+- Title
+- Platform
+- Genre
+- Release Date
+- Publisher
+- Developer
+- Recommended Age
+- Link
+
 ## Dependencies
 
 All the necessary libraries are listed in the *requirements.txt* file.
