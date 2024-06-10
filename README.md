@@ -23,11 +23,10 @@ pip install -r requirements.txt
 
 ## Usage
 
-- Run *main.py*, then provide the URL of the profile of the user.
+- Run *main.py*: you will be prompted to provide the URL of the profile of the user on Ludomedia.
 - Wait for the script to finish.
 - The data is exported in a CSV file named after the user, in a folder called *data*.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/giovanni-cutri/ludomedia-exporter/blob/main/LICENSE) file for details.
-
